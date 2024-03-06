@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSLearn.CSharpArraysOperations.Challenge", "MSLearn.CSharpArraysOperations.Challenge\MSLearn.CSharpArraysOperations.Challenge.csproj", "{EF017730-E81E-4C0E-9F2B-5E039B33091B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF017730-E81E-4C0E-9F2B-5E039B33091B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF017730-E81E-4C0E-9F2B-5E039B33091B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF017730-E81E-4C0E-9F2B-5E039B33091B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF017730-E81E-4C0E-9F2B-5E039B33091B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD7CBA22-896D-47D8-85AF-FFBF6CAEF32C}
+	EndGlobalSection
+EndGlobal
